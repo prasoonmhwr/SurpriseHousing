@@ -23,7 +23,7 @@ Conducted Analysis with the following technique
 
 ## Conclusions
 - Optimal value of lambda for Ridge Regression = 10
-- Optimal value of lambda for Lasso Regression = 100
+- Optimal value of lambda for Lasso Regression = 7.0
 - The variables significant in predicting the price of a house are :-
     - GrLivArea
     - OverallQual_9
